@@ -1,0 +1,46 @@
+﻿@model IEnumerable<Voyager.Models.Trip>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout4.cshtml";
+}
+
+<h1 class="text-light py-2 text-center">Available Trips and Tours</h1>
+
+<div class="row ">
+    <form method="post" asp-action="Index" class="col-md-8 py-3 ms-5 " >
+    <p class="">
+        <input class="searchbar justify-content-center " type="search" placeholder="Enter a Location or a Activity" value="@ViewData["location"]" name="LocationSearch" style="width:250px"/>
+        <input type="submit" value="search" class="btn btn-primary"/>
+        <a asp-action="Index"> Get All Location</a>
+    </p>
+</form>
+</div>
+
+
+<div class="row mt-3 text-light ms-5 ps-5">
+    
+    
+    @foreach(var item in Model)
+    {
+        <div class="card col-3 mbg-opacity-25 my-3 ms-5  bg-dark " style=" border:#29d9d5 solid 1px; border-radius:25px;height:27rem; ">
+            <h5 class="card-title pt-1 text-center">@item.TripName</h5>
+           <img class="p-2" src="@Url.Content(@item.TripUrl)" style="border-radius:25px;" />
+          <div class="card-body">
+            <p class="card-text">@item.Location</p>
+            <p class="card-details">
+                <div>Available: @item.StartTime.ToString(string.Format("dd/MM/yy"))-@item.EndTime.ToString(string.Format("dd/MM/yy"))</div>
+                <div> Price: @item.Price $</div>
+                <div>@item.Tag</div>
+            </p>
+         <a asp-action="Details" asp-route-id="@item.TripId" class="btn " style="color:#29d9d5">Details</a>
+                        @{
+                            string url = "https://www.sandbox.paypal.com/cgi-bin/webscr?cmd=xclick&amount=" + (@item.Price) + "&business=wardet@liu.com&item_name=Trip&return=https://localhost:7166/UserTrips/Checkout";
+                        }
+        <a href="@url" class="btn" style="color:#29d9d5">Reserve</a>
+      </div>
+    </div>
+    }
+    
+</div>
+

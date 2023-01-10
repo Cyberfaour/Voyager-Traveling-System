@@ -1,0 +1,40 @@
+﻿@model Voyager.Models.Post
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout4.cshtml";
+}
+
+
+<div class="row pt-4">
+    <div class="col-md-12 text-light py-4 bg-dark justify-content-center" style="border:#29d9d5 solid 2px; border-radius:25px;">
+        <h1 class="display-4">Share your Thoughts with the Community!</h1>
+
+         <form asp-action="Create" class="col-7 my-3">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group my-3" >
+                <label asp-for="PostName" class="control-label"></label>
+                <input asp-for="PostName" class="form-control" />
+                <span asp-validation-for="PostName" class="text-danger"></span>
+            </div>
+            <div class="form-group  my-3">
+                <label asp-for="PostDescription" class="control-label"></label>
+                <input asp-for="PostDescription" class="form-control" />
+                <span asp-validation-for="PostDescription" class="text-danger"></span>
+            </div>
+           
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+                <a asp-action="Index" >Cancel</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
+@section Scripts {
+  @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    
+   
+}

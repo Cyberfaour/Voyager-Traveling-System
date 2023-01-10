@@ -1,0 +1,49 @@
+﻿@model IEnumerable<Voyager.Models.Post>
+
+@{
+    ViewData["Title"] = "PostsIndex";
+    Layout = "~/Views/Shared/_Layout5.cshtml";
+}
+
+<h1>Feed</h1>
+
+<p>
+    <a asp-action="CreatePost">Create New</a>
+</p> 
+<table class="table text-light">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.PostName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PostDescription)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TimeStamp)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.OrderBy(item =>item.TimeStamp)){
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.PostName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PostDescription)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TimeStamp)
+            </td>
+            
+            <td>
+                <a asp-action="EditPost" asp-route-id="@item.Id"><i class="fas fa-pen"></i></a> 
+                <a asp-action="PostDetails" asp-route-id="@item.Id"><i class="fas fa-info"></i></a> 
+                <a asp-action="DeletePost" asp-route-id="@item.Id"><i class="fas fa-trash"></i></a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

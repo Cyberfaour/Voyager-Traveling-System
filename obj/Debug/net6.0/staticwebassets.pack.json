@@ -1,0 +1,1121 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Voyager.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Voyager.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\css\\EasterEgg.css",
+      "PackagePath": "staticwebassets\\css\\EasterEgg.css"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\css\\access.css",
+      "PackagePath": "staticwebassets\\css\\access.css"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\css\\admin.css",
+      "PackagePath": "staticwebassets\\css\\admin.css"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\css\\readme.css",
+      "PackagePath": "staticwebassets\\css\\readme.css"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\css\\settings.css",
+      "PackagePath": "staticwebassets\\css\\settings.css"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\css\\style.scss",
+      "PackagePath": "staticwebassets\\css\\style.scss"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\css\\adminlte.css",
+      "PackagePath": "staticwebassets\\dist\\css\\adminlte.css"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\css\\adminlte.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\adminlte.css.map"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\css\\adminlte.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\adminlte.min.css"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\css\\adminlte.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\adminlte.min.css.map"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\css\\alt\\adminlte.components.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.components.css"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\css\\alt\\adminlte.components.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.components.css.map"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\css\\alt\\adminlte.components.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.components.min.css"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\css\\alt\\adminlte.components.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.components.min.css.map"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\css\\alt\\adminlte.core.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.core.css"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\css\\alt\\adminlte.core.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.core.css.map"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\css\\alt\\adminlte.core.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.core.min.css"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\css\\alt\\adminlte.core.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.core.min.css.map"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\css\\alt\\adminlte.extra-components.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.extra-components.css"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\css\\alt\\adminlte.extra-components.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.extra-components.css.map"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\css\\alt\\adminlte.extra-components.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.extra-components.min.css"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\css\\alt\\adminlte.extra-components.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.extra-components.min.css.map"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\css\\alt\\adminlte.pages.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.pages.css"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\css\\alt\\adminlte.pages.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.pages.css.map"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\css\\alt\\adminlte.pages.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.pages.min.css"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\css\\alt\\adminlte.pages.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.pages.min.css.map"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\css\\alt\\adminlte.plugins.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.plugins.css"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\css\\alt\\adminlte.plugins.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.plugins.css.map"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\css\\alt\\adminlte.plugins.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.plugins.min.css"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\css\\alt\\adminlte.plugins.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.plugins.min.css.map"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\img\\AdminLTELogo.png",
+      "PackagePath": "staticwebassets\\dist\\img\\AdminLTELogo.png"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\img\\avatar.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar.png"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\img\\avatar2.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar2.png"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\img\\avatar3.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar3.png"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\img\\avatar4.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar4.png"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\img\\avatar5.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar5.png"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\img\\boxed-bg.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\boxed-bg.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\img\\boxed-bg.png",
+      "PackagePath": "staticwebassets\\dist\\img\\boxed-bg.png"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\img\\credit\\american-express.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\american-express.png"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\img\\credit\\cirrus.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\cirrus.png"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\img\\credit\\mastercard.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\mastercard.png"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\img\\credit\\paypal.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\paypal.png"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\img\\credit\\paypal2.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\paypal2.png"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\img\\credit\\visa.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\visa.png"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\img\\default-150x150.png",
+      "PackagePath": "staticwebassets\\dist\\img\\default-150x150.png"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\img\\icons.png",
+      "PackagePath": "staticwebassets\\dist\\img\\icons.png"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\img\\photo1.png",
+      "PackagePath": "staticwebassets\\dist\\img\\photo1.png"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\img\\photo2.png",
+      "PackagePath": "staticwebassets\\dist\\img\\photo2.png"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\img\\photo3.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\photo3.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\img\\photo4.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\photo4.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\img\\prod-1.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\prod-1.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\img\\prod-2.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\prod-2.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\img\\prod-3.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\prod-3.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\img\\prod-4.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\prod-4.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\img\\prod-5.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\prod-5.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\img\\user1-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user1-128x128.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\img\\user2-160x160.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user2-160x160.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\img\\user3-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user3-128x128.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\img\\user4-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user4-128x128.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\img\\user5-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user5-128x128.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\img\\user6-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user6-128x128.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\img\\user7-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user7-128x128.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\img\\user8-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user8-128x128.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\js\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\dist\\js\\.eslintrc.json"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\js\\adminlte.js",
+      "PackagePath": "staticwebassets\\dist\\js\\adminlte.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\js\\adminlte.js.map",
+      "PackagePath": "staticwebassets\\dist\\js\\adminlte.js.map"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\js\\adminlte.min.js",
+      "PackagePath": "staticwebassets\\dist\\js\\adminlte.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\js\\adminlte.min.js.map",
+      "PackagePath": "staticwebassets\\dist\\js\\adminlte.min.js.map"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\js\\demo.js",
+      "PackagePath": "staticwebassets\\dist\\js\\demo.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\js\\pages\\dashboard.js",
+      "PackagePath": "staticwebassets\\dist\\js\\pages\\dashboard.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\js\\pages\\dashboard2.js",
+      "PackagePath": "staticwebassets\\dist\\js\\pages\\dashboard2.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\dist\\js\\pages\\dashboard3.js",
+      "PackagePath": "staticwebassets\\dist\\js\\pages\\dashboard3.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\images\\404.jpg",
+      "PackagePath": "staticwebassets\\images\\404.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\images\\Hero.jpg",
+      "PackagePath": "staticwebassets\\images\\Hero.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\images\\QR_code.png",
+      "PackagePath": "staticwebassets\\images\\QR_code.png"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\images\\about-vid-1.mp4",
+      "PackagePath": "staticwebassets\\images\\about-vid-1.mp4"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\images\\about-vid-2.mp4",
+      "PackagePath": "staticwebassets\\images\\about-vid-2.mp4"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\images\\about-vid-3.mp4",
+      "PackagePath": "staticwebassets\\images\\about-vid-3.mp4"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\images\\africa2.jpg",
+      "PackagePath": "staticwebassets\\images\\africa2.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\images\\banner-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\banner-bg.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\images\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-1.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\images\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-2.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\images\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-3.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\images\\boat.png",
+      "PackagePath": "staticwebassets\\images\\boat.png"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\images\\bot.gif",
+      "PackagePath": "staticwebassets\\images\\bot.gif"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\images\\bottom.jpg",
+      "PackagePath": "staticwebassets\\images\\bottom.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\images\\des-1.jpg",
+      "PackagePath": "staticwebassets\\images\\des-1.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\images\\des-2.jpg",
+      "PackagePath": "staticwebassets\\images\\des-2.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\images\\des-3.jpg",
+      "PackagePath": "staticwebassets\\images\\des-3.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\images\\des-4.jpg",
+      "PackagePath": "staticwebassets\\images\\des-4.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\images\\des-5.jpg",
+      "PackagePath": "staticwebassets\\images\\des-5.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\images\\des-6.jpg",
+      "PackagePath": "staticwebassets\\images\\des-6.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\images\\des-7.jpg",
+      "PackagePath": "staticwebassets\\images\\des-7.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\images\\des-8.jpg",
+      "PackagePath": "staticwebassets\\images\\des-8.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\images\\fabian-quintero-UWQP2mh5YJI-unsplash.jpg",
+      "PackagePath": "staticwebassets\\images\\fabian-quintero-UWQP2mh5YJI-unsplash.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\images\\forest3.jpg",
+      "PackagePath": "staticwebassets\\images\\forest3.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\images\\gallery-img-1.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-img-1.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\images\\gallery-img-2.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-img-2.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\images\\gallery-img-3.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-img-3.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\images\\gallery-img-4.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-img-4.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\images\\gallery-img-5.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-img-5.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\images\\gallery-img-6.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-img-6.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\images\\gallery-img-7.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-img-7.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\images\\gallery-img-8.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-img-8.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\images\\gallery-img-9.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-img-9.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\images\\hike.png",
+      "PackagePath": "staticwebassets\\images\\hike.png"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\images\\home-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\home-bg.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\images\\hu-chen-0LwfbRtQ-ac-unsplash.jpg",
+      "PackagePath": "staticwebassets\\images\\hu-chen-0LwfbRtQ-ac-unsplash.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\images\\igor-kasalovic-tNDvFkxkBHo-unsplash.jpg",
+      "PackagePath": "staticwebassets\\images\\igor-kasalovic-tNDvFkxkBHo-unsplash.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\images\\jeffrey-johnson-SuxhNn7BeSM-unsplash.jpg",
+      "PackagePath": "staticwebassets\\images\\jeffrey-johnson-SuxhNn7BeSM-unsplash.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\images\\kalen-emsley-_LuLiJc1cdo-unsplash.jpg",
+      "PackagePath": "staticwebassets\\images\\kalen-emsley-_LuLiJc1cdo-unsplash.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\images\\let-s-go-together-orYix9zFUZo-unsplash.jpg",
+      "PackagePath": "staticwebassets\\images\\let-s-go-together-orYix9zFUZo-unsplash.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\images\\pic-1.png",
+      "PackagePath": "staticwebassets\\images\\pic-1.png"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\images\\pic-2.png",
+      "PackagePath": "staticwebassets\\images\\pic-2.png"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\images\\pic-3.png",
+      "PackagePath": "staticwebassets\\images\\pic-3.png"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\images\\pic-4.png",
+      "PackagePath": "staticwebassets\\images\\pic-4.png"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\images\\sebastian-unrau-v4e3JI7DDHI-unsplash.jpg",
+      "PackagePath": "staticwebassets\\images\\sebastian-unrau-v4e3JI7DDHI-unsplash.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\images\\shayd-johnson-3SYi9YfTXdU-unsplash.jpg",
+      "PackagePath": "staticwebassets\\images\\shayd-johnson-3SYi9YfTXdU-unsplash.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\images\\signup.jpg",
+      "PackagePath": "staticwebassets\\images\\signup.jpg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\images\\sunsetPalms.svg",
+      "PackagePath": "staticwebassets\\images\\sunsetPalms.svg"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\froala_editor.min.js",
+      "PackagePath": "staticwebassets\\js\\froala_editor.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\froala_editor.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\froala_editor.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\languages\\ar.js",
+      "PackagePath": "staticwebassets\\js\\languages\\ar.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\languages\\bs.js",
+      "PackagePath": "staticwebassets\\js\\languages\\bs.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\languages\\cs.js",
+      "PackagePath": "staticwebassets\\js\\languages\\cs.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\languages\\da.js",
+      "PackagePath": "staticwebassets\\js\\languages\\da.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\languages\\de.js",
+      "PackagePath": "staticwebassets\\js\\languages\\de.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\languages\\el.js",
+      "PackagePath": "staticwebassets\\js\\languages\\el.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\languages\\en_ca.js",
+      "PackagePath": "staticwebassets\\js\\languages\\en_ca.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\languages\\en_gb.js",
+      "PackagePath": "staticwebassets\\js\\languages\\en_gb.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\languages\\es.js",
+      "PackagePath": "staticwebassets\\js\\languages\\es.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\languages\\et.js",
+      "PackagePath": "staticwebassets\\js\\languages\\et.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\languages\\fa.js",
+      "PackagePath": "staticwebassets\\js\\languages\\fa.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\languages\\fi.js",
+      "PackagePath": "staticwebassets\\js\\languages\\fi.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\languages\\fr.js",
+      "PackagePath": "staticwebassets\\js\\languages\\fr.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\languages\\he.js",
+      "PackagePath": "staticwebassets\\js\\languages\\he.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\languages\\hr.js",
+      "PackagePath": "staticwebassets\\js\\languages\\hr.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\languages\\hu.js",
+      "PackagePath": "staticwebassets\\js\\languages\\hu.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\languages\\id.js",
+      "PackagePath": "staticwebassets\\js\\languages\\id.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\languages\\it.js",
+      "PackagePath": "staticwebassets\\js\\languages\\it.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\languages\\ja.js",
+      "PackagePath": "staticwebassets\\js\\languages\\ja.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\languages\\ko.js",
+      "PackagePath": "staticwebassets\\js\\languages\\ko.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\languages\\ku.js",
+      "PackagePath": "staticwebassets\\js\\languages\\ku.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\languages\\me.js",
+      "PackagePath": "staticwebassets\\js\\languages\\me.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\languages\\nb.js",
+      "PackagePath": "staticwebassets\\js\\languages\\nb.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\languages\\nl.js",
+      "PackagePath": "staticwebassets\\js\\languages\\nl.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\languages\\pl.js",
+      "PackagePath": "staticwebassets\\js\\languages\\pl.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\languages\\pt_br.js",
+      "PackagePath": "staticwebassets\\js\\languages\\pt_br.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\languages\\pt_pt.js",
+      "PackagePath": "staticwebassets\\js\\languages\\pt_pt.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\languages\\ro.js",
+      "PackagePath": "staticwebassets\\js\\languages\\ro.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\languages\\ru.js",
+      "PackagePath": "staticwebassets\\js\\languages\\ru.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\languages\\sk.js",
+      "PackagePath": "staticwebassets\\js\\languages\\sk.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\languages\\sl.js",
+      "PackagePath": "staticwebassets\\js\\languages\\sl.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\languages\\sr.js",
+      "PackagePath": "staticwebassets\\js\\languages\\sr.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\languages\\sv.js",
+      "PackagePath": "staticwebassets\\js\\languages\\sv.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\languages\\th.js",
+      "PackagePath": "staticwebassets\\js\\languages\\th.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\languages\\tr.js",
+      "PackagePath": "staticwebassets\\js\\languages\\tr.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\languages\\uk.js",
+      "PackagePath": "staticwebassets\\js\\languages\\uk.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\languages\\vi.js",
+      "PackagePath": "staticwebassets\\js\\languages\\vi.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\languages\\zh_cn.js",
+      "PackagePath": "staticwebassets\\js\\languages\\zh_cn.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\languages\\zh_tw.js",
+      "PackagePath": "staticwebassets\\js\\languages\\zh_tw.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\plugins.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\plugins\\align.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\align.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\plugins\\char_counter.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\char_counter.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\plugins\\code_beautifier.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\code_beautifier.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\plugins\\code_view.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\code_view.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\plugins\\colors.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\colors.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\plugins\\cryptojs.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\cryptojs.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\plugins\\draggable.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\draggable.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\plugins\\edit_in_popup.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\edit_in_popup.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\plugins\\emoticons.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\emoticons.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\plugins\\entities.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\entities.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\plugins\\file.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\file.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\plugins\\files_manager.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\files_manager.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\plugins\\font_family.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\font_family.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\plugins\\font_size.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\font_size.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\plugins\\forms.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\forms.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\plugins\\fullscreen.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\fullscreen.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\plugins\\help.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\help.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\plugins\\image.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\image.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\plugins\\image_manager.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\image_manager.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\plugins\\inline_class.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\inline_class.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\plugins\\inline_style.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\inline_style.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\plugins\\line_breaker.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\line_breaker.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\plugins\\line_height.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\line_height.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\plugins\\link.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\link.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\plugins\\lists.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\lists.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\plugins\\markdown.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\markdown.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\plugins\\paragraph_format.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\paragraph_format.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\plugins\\paragraph_style.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\paragraph_style.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\plugins\\print.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\print.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\plugins\\quick_insert.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\quick_insert.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\plugins\\quote.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\quote.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\plugins\\save.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\save.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\plugins\\special_characters.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\special_characters.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\plugins\\table.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\table.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\plugins\\track_changes.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\track_changes.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\plugins\\trim_video.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\trim_video.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\plugins\\url.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\url.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\plugins\\video.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\video.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\plugins\\word_paste.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\word_paste.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\third_party\\embedly.min.js",
+      "PackagePath": "staticwebassets\\js\\third_party\\embedly.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\third_party\\font_awesome.min.js",
+      "PackagePath": "staticwebassets\\js\\third_party\\font_awesome.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\third_party\\image_tui.min.js",
+      "PackagePath": "staticwebassets\\js\\third_party\\image_tui.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\third_party\\showdown.min.js",
+      "PackagePath": "staticwebassets\\js\\third_party\\showdown.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\js\\third_party\\spell_checker.min.js",
+      "PackagePath": "staticwebassets\\js\\third_party\\spell_checker.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\qrcode.js",
+      "PackagePath": "staticwebassets\\lib\\qrcode.js"
+    },
+    {
+      "Id": "D:\\SeniorWork\\Voyager\\wwwroot\\lib\\qrcode.min.js",
+      "PackagePath": "staticwebassets\\lib\\qrcode.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Voyager.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Voyager.props",
+      "PackagePath": "build\\Voyager.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Voyager.props",
+      "PackagePath": "buildMultiTargeting\\Voyager.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Voyager.props",
+      "PackagePath": "buildTransitive\\Voyager.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

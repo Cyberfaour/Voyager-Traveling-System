@@ -1,0 +1,17 @@
+﻿body {
+    position: absolute;
+    top: 0;
+    background: url("../images/shayd-johnson-3SYi9YfTXdU-unsplash.jpg");
+    background-size: cover;
+    background-position-x: 20%;
+    background-position-y: 100%;
+    width: 100%;
+    height: 100vh;
+    z-index: -1;
+    color:white;
+}
+.accordion {
+    border-radius: 25px;
+    background-color: #ccc;
+    color:black;
+}

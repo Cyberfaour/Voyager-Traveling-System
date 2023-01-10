@@ -1,0 +1,41 @@
+﻿@model Voyager.Models.Post
+
+@{
+    ViewData["Title"] = "Details";
+     Layout = "~/Views/Shared/_Layout4.cshtml";
+}
+
+
+
+<div class="text-light justify-content-center">
+    <h1>Details</h1>
+    <h4>Post</h4>
+    <hr />
+    <dl class="row ">
+        
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.PostName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PostName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.PostDescription)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PostDescription)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TimeStamp)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TimeStamp)
+        </dd>
+    </dl>
+</div>
+
+
+<div>
+   <a asp-action="Index" class="btn btn-primary">Back to List</a>
+</div>
+

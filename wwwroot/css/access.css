@@ -1,0 +1,192 @@
+﻿@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600&display=swap");
+
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@300&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    outline: none;
+    border: none;
+    text-decoration: none;
+    text-transform: none;
+    -webkit-transition: all .2s linear;
+    transition: all .2s linear;
+}
+
+html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 9rem;
+}
+
+    html::-webkit-scrollbar {
+        width: 0.5rem;
+    }
+
+    html::-webkit-scrollbar-track {
+        background: #111;
+    }
+
+    html::-webkit-scrollbar-thumb {
+        background: #29d9d5;
+        border-radius: 5rem;
+    }
+
+body {
+   background:black;
+   
+}
+
+.carousel {
+
+}
+img{
+    height:10rem;
+}
+
+.destination .box-container {
+    display: -ms-grid;
+    display: grid;
+    gap: 1.5rem;
+    width:50%;
+}
+
+    .destination .box-container .box {
+        border-radius: 1rem;
+        overflow: hidden;
+        background: #222;
+    }
+
+        .destination .box-container .box:hover img {
+            -webkit-transform: scale(1.1);
+            transform: scale(1.1);
+        }
+
+        .destination .box-container .box .image {
+            height: 5rem;
+            overflow: hidden;
+            width: 100%;
+        }
+
+            .destination .box-container .box .image img {
+                height: 100%;
+                width: 100%;
+                -o-object-fit: cover;
+                object-fit: cover;
+            }
+
+        .destination .box-container .box .content {
+            padding: 1rem;
+            text-align: center;
+        }
+
+            .destination .box-container .box .content h3 {
+                font-size: 1rem;
+                color: #fff;
+            }
+
+            .destination .box-container .box .content p {
+                padding: 1rem 0;
+                font-size: 1rem;
+                color: #aaa;
+                line-height: 1;
+            }
+
+            .destination .box-container .box .content a {
+                font-size: 1rem;
+                color: #29d9d5;
+            }
+
+                .destination .box-container .box .content a:hover i {
+                    padding-left: 1rem;
+                }
+
+                .destination .box-container .box .content a i {
+                    padding-right: .5rem;
+                }
+
+.banner {
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(17, 17, 17, 0.7)), to(rgba(17, 17, 17, 0.7))), url(../images/banner-bg.jpg) no-repeat;
+    background: linear-gradient(rgba(17, 17, 17, 0.7), rgba(17, 17, 17, 0.7)), url(../images/fabian-quintero-UWQP2mh5YJI-unsplash.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 3rem 2rem;
+    background-attachment: fixed;
+    text-align: center;
+}
+
+    .banner .content span {
+        font-size: 2rem;
+        color: #29d9d5;
+    }
+
+    .banner .content h3 {
+        font-size: 4rem;
+        color: #fff;
+        margin-top: 1rem;
+    }
+
+    .banner .content p {
+        max-width: 60rem;
+        margin: 1rem auto;
+        font-size: 1.4rem;
+        color: #aaa;
+        line-height: 2;
+    }
+
+.btnBook {
+    margin-top: .5rem;
+    display: inline-block;
+    padding: .5rem .5rem;
+    font-size: 1rem;
+    color: #29d9d5;
+    border: 0.2rem solid #29d9d5;
+    border-radius: 5rem;
+    cursor: pointer;
+    background: none;
+    text-decoration:none;
+}
+
+    .btnBook:hover {
+        background: #29d9d5;
+        color: #111;
+    }
+.container {
+    scroll-behavior: smooth;
+    scroll-padding-top: 9rem;
+}
+
+  .container ::-webkit-scrollbar {
+        width: 0.5rem;
+    }
+
+.container::-webkit-scrollbar-track {
+        background: #111;
+    }
+.container::-webkit-scrollbar-thumb {
+        background: #29d9d5;
+        border-radius: 5rem;
+    }
+
+.searchbar{
+       align-content:center;
+       justify-content:center;
+       background:transparent;
+       color:white;
+       border-radius:25px;
+       padding:0.5rem 0.75rem;
+       text-align:center;
+}
+
+    a:hover .ic {
+        padding-left: 1rem;
+    }
+     .ic {
+        padding-right: .5rem;
+    }
+/*.searchbar:hover{
+    border:#ccc solid 2px;
+    animation: 5s linear;
+}*/

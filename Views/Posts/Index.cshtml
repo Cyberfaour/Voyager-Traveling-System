@@ -1,0 +1,89 @@
+﻿@model IEnumerable<Voyager.Models.Post>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout4.cshtml";
+}
+<div class="row py-4">
+<div class="col-4 container-fluid">
+       <section class="destination" id="destination">
+
+    
+            <div class="box-container my-6">
+
+                <div class="box"data-aos="fade-right">
+                    <div class="image">
+                        <img src="images/des-3.jpg" alt="">
+                    </div>
+                    <div class="content">
+                        <h3>tours & travel</h3>
+                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
+                        
+                    </div>
+                </div>
+
+                <div class="box" data-aos="fade-right">
+                    <div class="image">
+                        <img src="images/des-4.jpg" alt="">
+                    </div>
+                    <div class="content">
+                        <h3>tours & travel</h3>
+                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
+                        
+                    </div>
+                </div>
+
+                <div class="box" data-aos="fade-right">
+                    <div class="image">
+                        <img src="images/des-5.jpg" alt="">
+                    </div>
+                    <div class="content">
+                        <h3>tours & travel</h3>
+                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
+                        
+                    </div>
+                </div>
+
+                <div class="box" data-aos="fade-right">
+                    <div class="image">
+                        <img src="images/des-6.jpg" alt="">
+                    </div>
+                    <div class="content">
+                        <h3>tours & travel</h3>
+                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
+                        
+                    </div>
+                </div>
+
+                
+
+            </div>
+            </section>  
+            </div>
+ <div  class="feed col-8 justify-content-center bg-dark text-light my-4" 
+   style="height:68rem; border-radius:1rem;overflow-x:hidden; border: #29d9d5 solid 1px ;overflow-y:scroll;">
+     <div class="container ms-5 ps-5 p-4 justify-content-center text-dark">
+        
+             @foreach (var item in Model){
+                 <div class="col-md-10" >
+                      <div class="card my-5" style="border:solid;border-bottom-right-radius:4rem;">
+                         <div class="card-header " style="background:#29d9d5;">
+                             @item.PostName
+                         </div>
+                        <div class="card-body text-light " style="background:black;border-bottom-right-radius:3rem;">
+                         <h5 class="card-title">@item.PostName</h5>
+                             <p class="card-text">
+                                 @{var desc = item.PostDescription;}
+                     </p>
+                      <div class="row fluid ">
+                        <a asp-action="Details" asp-route-id="@item.Id" style="text-decoration:none;color:#29d9d5;">Read More</a>
+                        <div class="col-2" style="font-size:x-small;">@item.TimeStamp</div>
+                      </div>
+                     </div>
+                 </div>
+             </div>
+         }
+         </div>
+    </div>
+   
+</div>

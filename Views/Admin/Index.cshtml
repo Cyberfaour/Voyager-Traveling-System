@@ -1,0 +1,83 @@
+﻿@model IEnumerable<Voyager.Models.Trip>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout5.cshtml";
+}
+
+
+<h1>Available Trips</h1>
+
+
+<table class="table text-light table-hover">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TripName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TripDesc)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TripUrl)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Location)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Activity)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Tag)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StartTime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EndTime)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TripName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TripDesc)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TripUrl)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Location)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Activity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Tag)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StartTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EndTime)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.TripId"><i class="fas fa-pen"></i></a> 
+                <a asp-action="Details" asp-route-id="@item.TripId"><i class="fas fa-info"></i></a> 
+                <a asp-action="Delete" asp-route-id="@item.TripId"><i class="fas fa-trash"></i></a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

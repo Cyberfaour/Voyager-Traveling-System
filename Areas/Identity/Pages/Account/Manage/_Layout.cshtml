@@ -1,0 +1,36 @@
+﻿@{
+    //if (ViewData.TryGetValue("ParentLayout", out var parentLayout))
+    //{
+    //    Layout = (string)parentLayout;
+    //}
+    //else
+    //{
+        Layout = "/Views/Shared/_Layout3.cshtml";
+        <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+        <link rel="stylesheet" href="~/css/settings.css"/>
+}
+
+
+
+<section class="mt-4 pt-4">
+<div class="row pt-5">
+<h1 class="">Manage your account</h1>
+
+<div class="">
+    
+    <h4 class="align-content-center my-2">Change your account settings</h4>
+    <hr />
+    <div class="row justify-content-center">
+        <div class="col-md-3">
+            <partial name="_ManageNav" />
+        </div>
+        <div class="col-md-9">
+            @RenderBody()
+        </div>
+    </div>
+</div>
+</div>
+</section>
+@section Scripts {
+    @RenderSection("Scripts", required: false)
+}

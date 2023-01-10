@@ -1,0 +1,76 @@
+﻿@page
+@model LoginModel
+
+@{
+    ViewData["Title"] = "Ready for a new Adventure?";
+}
+
+<h1>@ViewData["Title"]</h1>
+<div class="row mt-2">
+    <div class="col-md-4">
+        <section class="justify-content-center">
+            <form id="account" method="post">
+                <h2>Login now to Join other Voyagers!</h2>
+                <hr />
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-floating mb-2 text-black">
+                    <input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" />
+                    <label asp-for="Input.Email" class="form-label"></label>
+                    <span asp-validation-for="Input.Email" class="text-danger"></span>
+                </div>
+                <div class="form-floating mb-2 text-black">
+                    <input asp-for="Input.Password" class="form-control" autocomplete="current-password" aria-required="true" />
+                    <label asp-for="Input.Password" class="form-label"></label>
+                    <span asp-validation-for="Input.Password" class="text-danger"></span>
+                </div>
+                <div>
+                    <div class="checkbox mb-2 ">
+                        <label asp-for="Input.RememberMe" class="form-label">
+                            <input class="form-check-input" asp-for="Input.RememberMe" />
+                            @Html.DisplayNameFor(m => m.Input.RememberMe)
+                        </label>
+                    </div>
+                </div>
+                <div>
+                    <button id="login-submit" type="submit" class="w-100 btn btn-lg btn-primary mb-2">Log in</button>
+                </div>
+                <div class="mx-5 mt-4 ">
+                    <p class="ms-4">
+                        <a class="text-light ms-4"  id="forgot-password" asp-page="./ForgotPassword">Forgot your password?</a>
+                    </p>
+                    <p class="ms-4">
+                        <a class="text-light ms-4"asp-page="./Register" asp-route-returnUrl="@Model.ReturnUrl">Register as a new user</a>
+                    </p>
+                    <p class="ms-4">
+                        <a class="text-light ms-4" id="resend-confirmation" asp-page="./ResendEmailConfirmation">Resend email confirmation</a>
+                    </p>
+                </div>
+            </form>
+        </section>
+    </div>
+    <div class="col-md-8 ps-5 pt-5"data-aos="fade-left" data-aos-delay="150" >
+        <section class="ms-5 ps-5 justifycontent-center">
+           <div class="row justify-content-center ms-4 pt-5"  style="font-size:medium;font-family:'Cairo', sans-serif;">
+                <div class="ms-5 ps-5 col-7">
+                    <h4>From Team Voyager</h4>
+                    <p class="letter ">
+                        Voyager is a website designated for traveling and experiences 
+                    with the vastness of the world. This website is made available for any person who would like to explore the wonder 
+                    and beauty of our world with people who are passionate about the subject of travel.
+                </p>
+                <p>Welcome to your next Jouney!</p>
+                 </div> 
+            </div>
+            <div class="row justify-content-center pt-5">
+                <div class="col-4 justify-content-center display-4 ps-5" style="font-size:xx-large;">
+                <i class="fas fa-globe " ><span> Voyager</span></i> 
+                
+                </div>
+            </div>
+        </section>
+    </div>
+   </div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
